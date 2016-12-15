@@ -1,0 +1,25 @@
+The line breaking and the layout look very good now.  However, there are a few new issues that I identified and will list them in the following list.  I'm also including an annotated version of your PDF file for better communication regarding the intended correction suggestions.
+
+Suggestion list:
+(1) Most importantly, in Chinese, we usually don't have an extra space after the punctuation symbols, so it will be nice to remove them. The line break is fine because you obviously need a carriage return after the period.
+
+(2) I'm not sure if this is another encoding problem, but the Chinese comma symbol "，" and the Chinese period symbol "。" should be vertically centered.  In my files, they are, but in your PDF file, they are not.  It almost seems that you are using English punctuation symbols, not Chinese punctuation symbols.  This will have visual impact due to above mentioned rule in (1).
+
+(3) I spotted a single typo of my translation in the description of the superglasses, where "網速" should be "網路", as indicated in the PDF's marked annotation.  I have corrected it in the enclosed .md files, and will update the forked GitHub files too.
+
+(4) I observed that sometime you boldify some text lines.  I'm not sure whether it was intentionally done.
+
+(5) Some texts have smaller fonts.  I'm not sure whether it was intentionally done.
+
+(6) On page 4, in the first splash paragraph, the words "狗狗" was split into the 6th and 7th lines.  It just happened that we need to keep them together in the same line, so the implicit humor and cute meaning are more obvious. This requirement is rare and I guess that you got lucky :-)
+
+(7) On page 7, I now think that keeping the "°C" instead of just jusing "C" may be more professional, so made the suggestion and also change it in the .md files.
+
+Thanks,
+
+Shou-Jong Sheih
+謝守忠
+
+
+
+

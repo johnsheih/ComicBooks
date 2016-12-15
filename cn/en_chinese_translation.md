@@ -29,7 +29,7 @@ Calculator: -10 to the time of calculations.
 
 Superglasses: +10 to the speed of browsing the Internet.
 
-超級眼鏡：網速搜尋速度快十倍。
+超級眼鏡：網路搜尋速度快十倍。
 
 
 Beta's superpower is Data Analysis.
@@ -260,7 +260,7 @@ Caramelized sugar
 Boiling point [°C]
 Sugar concentration [%]
 
-沸點 [攝氏度數 C]
+沸點 [攝氏度數 °C]
 糖濃度 [百分比 %]
 
 
